@@ -1,0 +1,5 @@
+<TextView
+    android:text="Happy Other thing!"
+    android:background="@android:color/darker_gray"
+    android:layout_width="350dp"
+    android:layout_height="175dp" />
